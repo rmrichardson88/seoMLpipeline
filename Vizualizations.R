@@ -1,4 +1,4 @@
-setwd("C:\\Users\\devro\\OneDrive\\Documents\\Syracuse\\IST718\\FinalProj\\")
+setwd("C:\\Users\\rrichardson") #change this to whatever working directory you need
 
 #install.packages("jsonlite")
 #install.packages("ggcorrplot")
