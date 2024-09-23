@@ -1,14 +1,3 @@
-#
-# Author: Rodrick Blanton
-# Section: IST718
-# Title: Final Project Code
-# Explanation:  This file picks up at the presentation
-# The clustering and some of the cleanup were done in Python for my other class.
-# I will submit that code as well.  Here is presentation code as well as scratch
-# code I had for WIP Report and other thoughts.
-#
-#
-#
 setwd("C:\\Users\\devro\\OneDrive\\Documents\\Syracuse\\IST718\\FinalProj\\")
 
 #install.packages("jsonlite")
