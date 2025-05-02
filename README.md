@@ -2,7 +2,7 @@
 Proof of Concept Pipeline using SEO data to identify areas of opportunity to drive website traffic
 
 ** NOTE: there is currently a library in this script with a metadata widget that causes the .ipynb file from Colab to fail to display. 
-I have uploaded the main file as a .py, but expect some oddities until I can troubleshoot. **
+I have uploaded the main file as a .py, but it's uglier than it should be until I can troubleshoot. **
 
 Originally built in Google Colab, the Python Script:
   - creates a drive location for a dataset of SEO data
